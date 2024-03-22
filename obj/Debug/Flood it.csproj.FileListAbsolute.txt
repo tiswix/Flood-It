@@ -1,0 +1,52 @@
+F:\проект C#\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe.config
+F:\проект C#\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe
+F:\проект C#\Flood it\Flood it\Flood it\bin\Debug\Flood it.pdb
+F:\проект C#\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.AssemblyReference.cache
+F:\проект C#\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Root.resources
+F:\проект C#\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Properties.Resources.resources
+F:\проект C#\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.GenerateResource.cache
+F:\проект C#\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.CoreCompileInputs.cache
+F:\проект C#\Flood it\Flood it\Flood it\obj\Debug\Flood it.exe
+F:\проект C#\Flood it\Flood it\Flood it\obj\Debug\Flood it.pdb
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe.config
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\obj\Debug\Flood it.exe
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\obj\Debug\Flood it.pdb
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\bin\Debug\Flood it.pdb
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\obj\Debug\Flood it.csprojResolveAssemblyReference.cache
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Root.resources
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Properties.Resources.resources
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.GenerateResource.Cache
+C:\Users\leader\Desktop\Flood it\Flood it\Flood it\obj\Debug\Flood_it.AboutBox1.resources
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe.config
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.exe
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.pdb
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Debug\Flood it.pdb
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.csprojResolveAssemblyReference.cache
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood_it.AboutBox1.resources
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Root.resources
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Properties.Resources.resources
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.GenerateResource.Cache
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe.config
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.exe
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.pdb
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Debug\Flood it.pdb
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.csprojResolveAssemblyReference.cache
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood_it.AboutBox1.resources
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Root.resources
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Properties.Resources.resources
+E:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.GenerateResource.Cache
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe.config
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\bin\Debug\Flood it.exe
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\bin\Debug\Flood it.pdb
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.AssemblyReference.cache
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood_it.AboutBox1.resources
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Root.resources
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood_it.Properties.Resources.resources
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.GenerateResource.cache
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood it.csproj.CoreCompileInputs.cache
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood it.exe
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood it.pdb
+E:\КПІ\Інформатика\МАН\Flood it\Flood it\Flood it\Flood it\obj\Debug\Flood_it.RuleBox.resources

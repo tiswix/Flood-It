@@ -1,0 +1,10 @@
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Release\Flood it.exe.config
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Release\Flood it.exe
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\bin\Release\Flood it.pdb
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Release\Flood it.csprojResolveAssemblyReference.cache
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Release\Flood_it.AboutBox1.resources
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Release\Flood_it.Root.resources
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Release\Flood_it.Properties.Resources.resources
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Release\Flood it.csproj.GenerateResource.Cache
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Release\Flood it.exe
+H:\Школа\MAN\!22-23\6-8 класів «Перший крок у науку»\Пастушкова Галина\Flood it\Flood it\Flood it\obj\Release\Flood it.pdb
